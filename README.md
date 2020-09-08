@@ -2,7 +2,7 @@
 
 **David Cha**
 
-Flushing, NY 11354 | 929-394-9440 | david.cha44@qmail.cuny.edu
+Flushing, NY 11354 | 929-394-9440 | david.cha225@gmail.com
 
 [GitHub](https://github.com/davidcha17) | [Medium](https://medium.com/@littlesadtea) | [LinkedIn](https://www.linkedin.com/in/david-cha-96756b197/) | [Personal Website](https://davidcha.netlify.app/)
 
