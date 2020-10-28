@@ -8,39 +8,49 @@ Flushing, NY 11354 | 929-394-9440 | david.cha225@gmail.com
 
 **Full Stack Software Engineer**
 
-Experienced Web Developer in Ruby on Rails and JavaScript based programming and a background in Economics, Education, and Hospitality. Possess strong skills in team-building, communicating efficiently, and bringing positive energy to the team morale. Bilingual in English and Korean.
+Full-stack engineer experienced in React, JavaScript, Ruby, Ruby on Rails and fluent in CSS and HTML. Excellent in communicating, working independently,
+and collaborative work with distributed teams.
+Background in the food industry, distribution, and management, focused on technical mastery, maximizing profits, workflow and efficiency, and client
+relations, Interested in creating content that will benefit the community in profound ways. Bilingual in English and Korean.
 
 **TECHNICAL SKILLS**
 
-Ruby, Rails, SQL, Javascript, React, Redux, CSS, HTML
+React, Ruby on Rails, CSS, Gatsby, Redux, PostgreSQL, Sinatra, JavaScript, HTML, Ruby, Java, SQL
 
 **TECHNICAL PROJECTS**
 
+**Shop Tracker** - [website] (https://davidcha17.github.io/Store-Tracker/)
+
+Web app allows users to organize their current needs on a responsive platform.
+
+- Implemented as a Vanilla Javascript Application to display the user's inputs.
+- Utilized flexbox to make the application responsive and custom CSS to layout the S.P.A.
+- Constructed an auto-save feature through local storage to prevent instance data from
+  disappearing
+
+**Portfolio** - [Website] (https://davidcha.netlify.app/)
+
+A static website built to show recruiters and potential employers.
+
+- Utilized Gatsby framework to create a React website.
+- Customized CSS to integrate a trendy style for a portfolio.
+
 **Y.A.M.S** - [Frontend](https://github.com/davidcha17/YAMS-frontend/tree/david) | [Backend](https://github.com/davidcha17/YAMS-backend)
 
-Web app guide users towards the best food based on their location
+Web app guide users towards the best foods based on their location.
 
-- Implemented Fusion Yelp API to list the surrounding restaurants near the user
-- Utilized the Mapbox API to show where the user is and to target all the restaurant&#39;s locations with React
-- Constructed a user profile where they can sign-in and look at their go-to-list of restaurants as well as a log-out
-- Designed it to be mobile friendly, to improve user interaction
+- Integrated Fusion Yelp API to make calls for the surrounding restaurants near the user.
+- Utilized the Mapbox API to display the user's location and all the restaurant’s locations by
+  applying states in React.
+- Constructed user authentication by utilizing JWT.
 
 **Yap Station** - [Frontend](https://github.com/jtb6179/YapStation) | [Backend](https://github.com/jtb6179/YapStation-BackEnd)
 
-Collaborated project. Web app allows users to post status, comments, and photos
+Collaborated project. Web app allows users to post status, comments, and photos.
 
-- Implemented Carrier Wave to implement photo, posts, and video posts
-- Constructed a user profile where they can sign-in and look at their feeds and posts
-- Designed the web app with bootstrap and CSS
-
-**Car Deets** - [Frontend](https://github.com/davidcha17/Car-Details.git) | [Backend](https://github.com/davidcha17/Car-Details-Backend.git)
-
-Web app allows users choosing the right car for the individual and taking a closer look at the specifications
-
-- Implemented Vanilla JavaScript to fabricate a simple frontend and to create a more user-friendly app
-- Created accurate seed data with Ruby Rails to produce numerous vehicles
-- Developed a Ruby backend that has a three model relationship with the user, the car, and comments as the joiner
-- Utilized CSS to design the layout of the frontend
+- Implemented Carrier Wave to implement photo, posts, and video posts.
+- Constructed user profiles where they can sign-in and look at their feeds and posts with JWT.
+- Designed the web app with bootstrap and CSS.
 
 **EXPERIENCE**
 
@@ -77,3 +87,5 @@ Full Stack Web Development, Ruby on Rails and JavaScript program 12/2019 - 4/202
 **Queens College** Flushing, NY
 
 Bachelors in Economics 5/2018
+
+
